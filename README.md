@@ -44,3 +44,4 @@ Test
 
 #04/05 Batch
 #second trigger on todays batch
+#1506 CGI Batch
